@@ -34,8 +34,8 @@ namespace HW2_Cisneros
         static void WriteEuropean()
         {
             string day = "Saturday";
-            string month = "July";
             int date = (18);
+            string month = "July";            
             int year = (2020);
             Console.WriteLine(day + " " + date + " " + month + "," + " " + year); 
 
